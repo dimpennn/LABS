@@ -14,4 +14,4 @@ function ages (persons) {
     return age;
 }
 
-console.log(ages(persons)); // { lenin: 54, mao: 83, gandhi: 79, hirohito: 88 }
+console.log(ages(persons)); // { Symonenko: 28, Stus: 47, Vysnia: 67, Semenko: 45 }
